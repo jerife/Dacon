@@ -4,6 +4,6 @@
 
 ### Kaggle Competitions & NoteBooks Repository
 
-#### > Participating Competitions
+Participating Competitions
 
-- 01 인공지능 비트 트레이더 경진대회 시즌 2
+- [01 인공지능 비트 트레이더 경진대회 시즌 2](https://github.com/jerife/Dacon/blob/main/인공지능%20비트%20트레이더%20경진대회%20시즌%202.ipynb)[~ing]
